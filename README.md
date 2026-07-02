@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jiweon 👋</h1>
+<h1 align="center">Hi, I'm Jiweon </h1>
 <p align="center">Undergraduate Student · Audio-Driven Lip-Sync Video Generation</p>
 
 <p align="center">
