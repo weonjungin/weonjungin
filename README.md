@@ -36,6 +36,3 @@ Custom SyncNetTemporal (SyncLT) module trained on GRID/HDTF for lip-sync synchro
 
 `PyTorch` · `MuseTalk` · `Whisper` · `GFPGAN` · `DDP / Multi-GPU Training`
 
-### 📫 Contact
-
-weon0818@catholic.ac.kr
